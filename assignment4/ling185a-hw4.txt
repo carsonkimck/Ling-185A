@@ -1,0 +1,19 @@
+Carson Kim
+Ling 185A - Assignment #04
+2/3/2021
+
+
+G. 
+a) phi
+b) false
+c) phi
+d) T
+e) F
+
+
+H. 
+a) r 
+b) r
+c) n/a	
+d) 1
+e) 1
